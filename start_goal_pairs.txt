@@ -1,4 +1,4 @@
-Map ./maps/random512-10-0.map
+Map ../maps/random512-10-0.map
 start: 253 110 goal: 323 208
 start: 433 321 goal: 485 485
 start: 361 398 goal: 135 188
@@ -499,7 +499,7 @@ start: 375 374 goal: 475 259
 start: 507 364 goal: 120 172
 start: 2 105 goal: 176 441
 start: 459 30 goal: 511 124
-Map ./maps/maze512-1-0.map
+Map ../maps/maze512-1-0.map
 start: 153 247 goal: 147 115
 start: 25 260 goal: 203 24
 start: 265 321 goal: 499 385
@@ -1000,7 +1000,7 @@ start: 91 436 goal: 213 265
 start: 3 437 goal: 35 2
 start: 362 127 goal: 179 139
 start: 169 117 goal: 307 117
-Map ./maps/brc202d.map
+Map ../maps/brc202d.map
 start: 131 479 goal: 210 365
 start: 239 430 goal: 277 230
 start: 238 431 goal: 160 56
@@ -1501,7 +1501,7 @@ start: 260 472 goal: 134 47
 start: 167 66 goal: 297 278
 start: 301 222 goal: 107 400
 start: 119 186 goal: 214 361
-Map ./maps/den012d.map
+Map ../maps/den012d.map
 start: 164 42 goal: 90 75
 start: 208 193 goal: 265 168
 start: 160 265 goal: 20 88
@@ -2002,7 +2002,7 @@ start: 258 220 goal: 209 235
 start: 239 173 goal: 94 183
 start: 109 105 goal: 110 247
 start: 209 272 goal: 250 210
-Map ./maps/orz800d.map
+Map ../maps/orz800d.map
 start: 543 433 goal: 490 436
 start: 254 527 goal: 720 72
 start: 389 547 goal: 745 580
