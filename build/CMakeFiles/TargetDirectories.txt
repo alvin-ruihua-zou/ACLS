@@ -1,6 +1,0 @@
-/mnt/c/Users/alvin/Desktop/ACLS/build/CMakeFiles/test_2d_grid.dir
-/mnt/c/Users/alvin/Desktop/ACLS/build/CMakeFiles/test_3d_grid.dir
-/mnt/c/Users/alvin/Desktop/ACLS/build/CMakeFiles/test_tiles_puzzle.dir
-/mnt/c/Users/alvin/Desktop/ACLS/build/CMakeFiles/test_tower_puzzle.dir
-/mnt/c/Users/alvin/Desktop/ACLS/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/alvin/Desktop/ACLS/build/CMakeFiles/rebuild_cache.dir
